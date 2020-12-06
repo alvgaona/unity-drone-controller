@@ -1,5 +1,7 @@
 # Unity Drone Controller
 
+<p align="center"><img src="images/dji.gif"/></p>
+
 The idea behind this project is to share a set-up for robotics simulation in Unity. 
 At the time of this writing, this is simply a Unity-based drone controller—in particular a DJI F450 controller written in C#—which can be controlled
 by any joystick you'd like; although, it's been only tested with a PS4 controller (it's pretty easy to set up a different one).
